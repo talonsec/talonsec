@@ -21,7 +21,7 @@
 
 ## Why Talon
 
-Led by a Chief Security Engineer with **20+ years** securing U.S. Department of Defense,
+Led by Subject Matter Experts (SMEs) with **20+ years** securing U.S. Department of Defense,
 Intelligence Community, and federal enterprises — delivering secure, automated systems
 from architecture through Authorization to Operate (ATO).
 
