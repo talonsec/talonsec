@@ -16,7 +16,8 @@
 - **Multi-Cloud & Platform Engineering** — AWS, Azure, and GCP; Kubernetes-native security
 - **DevSecOps & policy-as-code** — OPA, Terraform, GitOps, and automated compliance scanning
 - **NIST 800-53 / RMF compliance automation** — accelerating Authorization to Operate (ATO)
-- **Cyber-Artificial Intelligence** — AWS Bedrock, SageMaker, and secure GenAI reference architectures
+- **Cyber-Artificial Intelligence** — AWS Bedrock, SageMaker, Agentic AI, LLMOps, and secure GenAI reference architectures
+- **Forward Deployed Engineering & Platform Engineering** — embedded, on-site delivery into customer environments
 - **Application Security Testing** — SAST/DAST, penetration testing, and secure SDLC
 
 ## Why Talon
