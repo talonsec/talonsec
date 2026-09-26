@@ -5,7 +5,7 @@
 > on Zero Trust Architecture, Multi-Cloud and Platform Engineering, Cyber-Artificial
 > Intelligence, IT security automation, and application security testing.
 
-🌐 **[talonsec.co](https://talonsec.co)** &nbsp;·&nbsp; 📍 Gaithersburg, MD, USA &nbsp;·&nbsp; ✉️ cdreguerin@talonsec.co
+🌐 **[talonsec.co](https://talonsec.co)** &nbsp;·&nbsp; 📍 Gaithersburg, MD, USA &nbsp;·&nbsp; ✉️ info@talonsec.co
 
 ---
 
