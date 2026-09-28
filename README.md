@@ -1,9 +1,9 @@
 # Talon Security Engineering, LLC
 
-> Cybersecurity engineering, training, and C-level program consulting firm helping
-> U.S. Federal agency executives digitally transform their enterprises — with a focus
-> on Zero Trust Architecture, Multi-Cloud and Platform Engineering, Cyber-Artificial
-> Intelligence, IT security automation, and application security testing.
+> Cybersecurity engineering, training, and C-level advisory firm helping
+> Federal and commercial organizations digitally transform their enterprises — with a focus
+> on AI-Enhanced Cybersecurity Engineering, Zero Trust Architecture, Multi-Cloud and Platform
+> Engineering, Cyber-Artificial Intelligence, IT security automation, and application security testing.
 
 🌐 **[talonsec.co](https://talonsec.co)** &nbsp;·&nbsp; 📍 Gaithersburg, MD, USA &nbsp;·&nbsp; ✉️ info@talonsec.co
 
@@ -22,8 +22,8 @@
 
 ## Why Talon
 
-Led by Subject Matter Experts (SMEs) with **20+ years** securing U.S. Department of Defense,
-Intelligence Community, and federal enterprises — delivering secure, automated systems
+Led by Subject Matter Experts (SMEs) with **20+ years** securing U.S. Department of Defense, Intelligence Community, Federal,
+and commercial enterprises — delivering secure, automated systems
 from architecture through Authorization to Operate (ATO).
 
 **Engagement models:** available as **C2C or 1099**.
