@@ -2,8 +2,9 @@
 
 > Cybersecurity engineering, training, and C-level advisory firm helping
 > Federal and commercial organizations digitally transform their enterprises — with a focus
-> on AI-Enhanced Cybersecurity Engineering, Zero Trust Architecture, Multi-Cloud and Platform
-> Engineering, Cyber-Artificial Intelligence, IT security automation, and application security testing.
+> on AI-Native Cybersecurity Engineering, Zero Trust Architecture, Cross Domain Solutions,
+> Multi-Cloud and Platform Engineering, AI Governance & Assurance, IT security automation,
+> and application security testing.
 
 🌐 **[talonsec.co](https://talonsec.co)** &nbsp;·&nbsp; 📍 Gaithersburg, MD, USA &nbsp;·&nbsp; ✉️ info@talonsec.co
 
@@ -11,12 +12,15 @@
 
 ## What we do
 
+- **AI-Native Cybersecurity Engineering** — AI is our operating model: Agentic AI, AI Governance & Assurance (NIST AI RMF), LLMOps, and secure GenAI woven through every engagement
 - **Zero Trust Architecture (ZTA)** — strategy and implementation for DoD/IC across U, S, and TS domains
-- **Enterprise Cross Domain Solutions (ECDS)** — including cloud-native Cross Domain Solutions on AWS
-- **Multi-Cloud & Platform Engineering** — AWS, Azure, and GCP; Kubernetes-native security
+- **Cross Domain Solutions (CDS)** — Enterprise CDS (ECDS), cloud-native CDS on AWS, and AI-Native CDS — the next generation of secure data movement across security domains
+- **AI Governance & Assurance** — NIST AI RMF alignment, LLMOps, and model security for federal and commercial AI systems
+- **Multi-Cloud & Platform Engineering** — AWS (preferred partner), Azure, Google Cloud, and Oracle; Kubernetes-native security
 - **DevSecOps & policy-as-code** — OPA, Terraform, GitOps, and automated compliance scanning
 - **NIST 800-53 / RMF compliance automation** — accelerating Authorization to Operate (ATO)
-- **Cyber-Artificial Intelligence** — AWS Bedrock, SageMaker, Agentic AI, LLMOps, and secure GenAI reference architectures
+- **Offensive Security & OSINT** — AI-generated synthetic personas and managed-attribution tradecraft supporting authorized red-team operations and open-source intelligence research
+- **Applied AI Automation** — autonomous multi-agent systems and applied-AI pipelines (e.g., capture/opportunity discovery) engineered with guardrails and human-in-the-loop control
 - **Forward Deployed Engineering & Platform Engineering** — embedded, on-site delivery into customer environments
 - **Application Security Testing** — SAST/DAST, penetration testing, and secure SDLC
 
