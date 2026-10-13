@@ -16,7 +16,7 @@
 - **Zero Trust Architecture (ZTA)** — strategy and implementation for DoD/IC across U, S, and TS domains
 - **Cross Domain Solutions (CDS)** — Enterprise CDS (ECDS), cloud-native CDS on AWS, and AI-Native CDS — the next generation of secure data movement across security domains
 - **AI Governance & Assurance** — NIST AI RMF alignment, LLMOps, and model security for federal and commercial AI systems
-- **Multi-Cloud & Platform Engineering** — AWS (preferred partner), Azure, Google Cloud, and Oracle; Kubernetes-native security
+- **Multi-Cloud & Platform Engineering** — AWS (our primary platform & deepest expertise), Azure, Google Cloud, and Oracle; Kubernetes-native security
 - **DevSecOps & policy-as-code** — OPA, Terraform, GitOps, and automated compliance scanning
 - **NIST 800-53 / RMF compliance automation** — accelerating Authorization to Operate (ATO)
 - **Offensive Security & OSINT** — AI-generated synthetic personas and managed-attribution tradecraft supporting authorized red-team operations and open-source intelligence research
